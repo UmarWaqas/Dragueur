@@ -4,6 +4,10 @@ Dragueur
 [![API](https://img.shields.io/badge/API-10%2B-green.svg)][repo]
 [![Android Arsenal](https://img.shields.io/badge/---------brightgreen.svg?style=flat)][androidarsenal]
 
+<a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
+  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+</a>
+
 Dragueur can move any view with one finger ;)
 
 [![intro](media/dragueur.gif)][repo]
@@ -110,6 +114,10 @@ We encourage the community to contribute to the project by opening tickets and/o
 [![logo meetic](media/meetic.jpg)][meetic]
 
 Contributor: [Florent Champigny][florent]
+
+<a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
+  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+</a>
 
 # License
 
